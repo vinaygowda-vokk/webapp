@@ -1,0 +1,19 @@
+.spacer {
+  flex: 1 1 auto;
+}
+.mat-toolbar.mat-primary {
+  background: #df7f27;
+  color: #fff;
+}
+
+.divLeft {
+  // display: inline;
+  float: left;
+  margin-left: 1%;
+}
+.divRight {
+  // display: inline;
+  text-align: center;
+  width: 100%;
+  background-color: rgb(180, 130, 64);
+}
